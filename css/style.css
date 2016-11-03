@@ -1,0 +1,20 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	color: #2d3c4;
+	font-weight: 300;
+}
+.title-logo{
+	margin-top: 20px;
+}
+.text-thin{
+	font-size: 50px;
+	font-weight: 100 !important;
+}
+.head-ruler{
+	background: #7d97ad;
+	height: 3px;
+}
+.work-image{
+	width: 350px;
+	height: 200px;
+}
